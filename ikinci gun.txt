@@ -1,0 +1,11 @@
+git githup ikinci gun &: dene,e
+git githup ikinci gun 2. dene,e
+git githup ikinci gun 3. dene,e
+git githup ikinci gun 4. dene,erol branch
+git githup ikinci gun 5. dene,master
+git githup ikinci gun 6. dene,erol branch
+git githup ikinci gun ilk. dene,evren branch
+naber...............
+
+git github 3. gunilk deneme 
+git github 3. gun 2. deneme 
