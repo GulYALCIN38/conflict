@@ -12,3 +12,4 @@ git github 3. gun 2. deneme
 
 it githup ikinci gun 4. dene,gul branch
 merhaba gul
+kolay gelsin
